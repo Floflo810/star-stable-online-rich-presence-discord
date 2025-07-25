@@ -23,5 +23,10 @@
     "code": "test",
     "description": "Pack de bienvenue pour les nouveaux joueurs",
     "date": "2025-07-25"
+  },
+  {
+    "code": "test.2",
+    "description": "ta mere",
+    "date": "2025-07-25"
   }
 ]
