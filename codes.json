@@ -1,27 +1,22 @@
-{
-  "author": "Floflo810",
-  "version": "1.0",
-  "generated": "2025-07-25",
-  "codes": [
-    {
-      "code": "SUMMER2025",
-      "description": "10 jours de Star Rider gratuit",
-      "date": "2025-07-24"
-    },
-    {
-      "code": "BEACHFUN",
-      "description": "Tenue estivale exclusive",
-      "date": "2025-07-24"
-    },
-    {
-      "code": "STARCOINS50",
-      "description": "50 Star Coins offerts",
-      "date": "2025-07-24"
-    },
-    {
-      "code": "WELCOMESSO",
-      "description": "Pack de bienvenue pour les nouveaux joueurs",
-      "date": "2025-07-25"
-    }
-  ]
-}
+[
+  {
+    "code": "SUMMER2025",
+    "description": "10 jours de Star Rider gratuit",
+    "date": "2025-07-24"
+  },
+  {
+    "code": "BEACHFUN",
+    "description": "Tenue estivale exclusive",
+    "date": "2025-07-24"
+  },
+  {
+    "code": "STARCOINS50",
+    "description": "50 Star Coins offerts",
+    "date": "2025-07-24"
+  },
+  {
+    "code": "125",
+    "description": "Pack de bienvenue pour les nouveaux joueurs",
+    "date": "2025-07-25"
+  }
+]
