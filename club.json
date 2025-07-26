@@ -1,8 +1,5 @@
 {
   "moon presidents": {"icon": "moon_presidents", "full_name": "Moon Presidents"},
-  "les cavaliers du nord": {"icon": "cavaliers_nord", "full_name": "Les Cavaliers du Nord"},
-  "wild mustangs": {"icon": "wild_mustangs", "full_name": "Wild Mustangs"},
-  "silver stars": {"icon": "silver_stars", "full_name": "Silver Stars"},
-  "silver stars": {"icon": "evil_rockers", "full_name": "Evil Rockers"}
+  "evil rockers": {"icon": "evil_rockers", "full_name": "Evil Rockers"}
 }
 
