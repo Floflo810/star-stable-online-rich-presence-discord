@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: 🔔 Envoyer une notification Discord
-        uses: tsickert/discord-webhook@v5
+        uses: tsickert/discord-webhook@v1.0.4
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
           content: |
