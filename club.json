@@ -1,5 +1,6 @@
 {
   "moon presidents": {"icon": "moon_presidents", "full_name": "Moon Presidents"},
-  "evil rockers": {"icon": "evilrockers", "full_name": "Evil Rockers"}
+  "evil rockers": {"icon": "evilrockers", "full_name": "Evil Rockers"},
+  "test": {"icon": "evilrockers", "full_name": "test"}
 }
 
