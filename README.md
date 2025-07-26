@@ -1,6 +1,6 @@
-# 🌟 Floflo810 – Star Stable Online Rich Presence (v0.2)
+# 🌟 Floflo810 – Star Stable Online Rich Presence (v0.1)
 
-Un outil Python qui active la **Rich Presence Discord** pour **Star Stable Online**, avec détection automatique du jeu, système d’alerte pour les nouveaux **codes cadeaux SSO**, intégration **club**, interface utilisateur en **Tkinter**, et plus encore.
+Un outil qui active la **Rich Presence Discord** pour **Star Stable Online**, avec détection automatique du jeu, système d’alerte pour les nouveaux **codes cadeaux SSO**, intégration **club**, interface utilisateur en **Tkinter**, et plus encore.
 
 ---
 
