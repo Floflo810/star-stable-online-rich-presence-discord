@@ -53,5 +53,10 @@
     "code": "Test Code fini",
     "description": "0,1 Star Coin",
     "date": "2025-08-03"
+  },
+  {
+    "code": "Test Code 2.0",
+    "description": "0,50 Star Coin",
+    "date": "2025-08-10"
   }
 ]
