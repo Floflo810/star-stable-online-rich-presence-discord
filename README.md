@@ -1,7 +1,10 @@
-https://zupimages.net/up/26/45/sp8e.gif
 # 🌟 Floflo810 – Star Stable Online Rich Presence (v0.1)
 
 Un outil qui active la **Rich Presence Discord** pour **Star Stable Online**, avec détection automatique du jeu, système d’alerte pour les nouveaux **codes cadeaux SSO**, intégration **club**, interface utilisateur en **Tkinter**, et plus encore.
+
+---
+
+<img width="720" height="405" alt="SSO_Rich_Presence_Logo_Roulant_Championnats_MAJ" src="https://github.com/user-attachments/assets/1046fe1e-f258-4a74-923b-bfde75430050" />
 
 ---
 
@@ -18,4 +21,4 @@ Un outil qui active la **Rich Presence Discord** pour **Star Stable Online**, av
 
 ---
 
-https://star-stable-online-tools-fr.netlify.app/rich-presence
+téléchargement: https://star-stable-online-tools-fr.netlify.app/rich-presence
