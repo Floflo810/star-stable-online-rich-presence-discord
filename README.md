@@ -16,3 +16,5 @@ Un outil qui active la **Rich Presence Discord** pour **Star Stable Online**, av
 - 🛠️ Interface Tkinter simple et responsive pour la configuration
 
 ---
+
+https://star-stable-online-tools-fr.netlify.app/rich-presence
